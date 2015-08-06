@@ -1,0 +1,20 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/16 pt.2/nnc1.0046978739/014.png"; bbox 0 0 3846 6218; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 811 2385 3306 2631">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 811 2385 3306 2631">
+     <span class='ocr_line' id='line_1_1' title="bbox 811 2385 3306 2631; baseline 0.001 -3"><span class='ocrx_word' id='word_1_1' title='bbox 811 2385 2963 2631; x_wconf 78' lang='lat' dir='ltr'><strong>HEXAPLORUM</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 3295 2505 3306 2572; x_wconf 76' lang='grc' dir='ltr'><em>ε</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1345 2861 2432 2970">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1345 2861 2432 2970">
+     <span class='ocr_line' id='line_1_2' title="bbox 1345 2861 2432 2970; baseline -0.006 -15"><span class='ocrx_word' id='word_1_3' title='bbox 1345 2865 1623 2970; x_wconf 67' lang='lat' dir='ltr'><strong>QUIE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1696 2861 2432 2952; x_wconf 83' lang='lat' dir='ltr'><strong>SUPERSUNT.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1418 3399 2374 3531">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1418 3399 2374 3531">
+     <span class='ocr_line' id='line_1_3' title="bbox 1418 3399 2374 3531; baseline 0 -7"><span class='ocrx_word' id='word_1_5' title='bbox 1418 3399 2374 3531; x_wconf 78' lang='lat' dir='ltr'><strong>PBOVERBIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
